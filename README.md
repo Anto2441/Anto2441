@@ -7,7 +7,7 @@ Full-Stack Web and Mobile Developer
 
 I'm an experienced developer specializing in front-end development, and I'm looking for new opportunities.
 
-* 🌍  I'm based in Angoulême, France 
+* 🌍  I'm based in Angoulême, France
 * ✉️  You can contact me at [desorbais.anthony@gmail.com](mailto:desorbais.anthony@gmail.com)
 * 🚀  I'm currently working on [Noah Ride](https://github.com/Anto2441/noah-ride)
 * 🧠  I'm learning all the latest trends in the React ecosystem (NextJs - Expo) and AI
