@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony
 ===============================================================================================================================
 
-Full-Stack Web and Mobile Developer 
+Full-Stack Web and Mobile Developer
 -----------------------------------
 
 I'm an experienced developer specializing in front-end development, and I'm looking for new opportunities.
