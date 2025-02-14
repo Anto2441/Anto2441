@@ -12,7 +12,7 @@ I'm an experienced developer specializing in front-end development, and I'm look
 * 🚀  I'm currently working on [Noah Ride](https://github.com/Anto2441/noah-ride) 
 * 🧠  I'm learning all the latest trends in the React ecosystem (NextJs - Expo) and AI
 * 🤝  I'm open to collaborating on anything, message me !
-* ⚡  Ongoing progress 🏸
+* ⚡  Ongoing progress 🏸 
 
 ### Skills
 
