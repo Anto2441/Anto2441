@@ -7,7 +7,7 @@ Full-Stack Web and Mobile Developer
 
 I'm an experienced developer specializing in front-end development, and I'm looking for new opportunities.
 
-* 🌍  I'm based in France
+* 🌍  I'm based in France  
 * ✉️  You can contact me at [desorbais.anthony@gmail.com](mailto:desorbais.anthony@gmail.com)
 * 🚀  I'm currently working on [Groovify](https://github.com/Anto2441/Groovify) 
 * 🧠  I'm learning all the latest trends in the React ecosystem (Tanstack) and AI
